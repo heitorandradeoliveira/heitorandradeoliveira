@@ -30,5 +30,5 @@ Estou sempre em busca de novas oportunidades na área de dados, onde posso contr
 
 ## Contato
 
-- LinkedIn: [Heitor Andrade Oliveira](www.linkedin.com/in/heitorandradeoliveira)
+- LinkedIn: [Heitor Andrade Oliveira](https://www.linkedin.com/in/heitorandradeoliveira/)
 - E-mail: [heitor.andrade@unesp.br]

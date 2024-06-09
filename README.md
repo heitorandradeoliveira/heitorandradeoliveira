@@ -24,10 +24,6 @@ Atualmente, atuo como Cientista de Dados, aplicando minhas habilidades em estat�
 - Técnicas: Análise Estatística, Modelos de Machine Learning, Análise Exploratória de Dados
 - Práticas: Identificação de Hipóteses, Limpeza e Transformação de Dados, Apresentação de Resultados
 
-## Objetivos
-
-Estou sempre em busca de novas oportunidades na área de dados, onde posso contribuir com minhas habilidades analíticas e criatividade para resolver desafios reais. Estou interessado em projetos que me permitam extrair insights valiosos dos dados e transformá-los em soluções inovadoras para problemas complexos.
-
 ## Contato
 
 - LinkedIn: [Heitor Andrade Oliveira](https://www.linkedin.com/in/heitorandradeoliveira/)

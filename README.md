@@ -22,7 +22,7 @@ Atualmente, atuo como Cientista de Dados, aplicando minhas habilidades em estat�
 - Linguagens de Programação: Python, R, SQL
 - Ferramentas: ETL, Ferramentas de Visualização de Dados
 - Técnicas: Análise Estatística, Modelos de Machine Learning, Análise Exploratória de Dados
-- Práticas: Identificação de Hipóteses, Limpeza e Transformação de Dados, Apresentação de Resultados
+- Práticas: Identificação de Hipóteses, Limpeza e Transformação de Dados, Modelagem, Apresentação de Resultados
 
 ## Contato
 

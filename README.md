@@ -1,30 +1,100 @@
-# Heitor Andrade Oliveira
+# 👋 Olá, eu sou **Heitor Andrade Oliveira**
 
-## Sobre Mim
+🎯 **Cientista de Dados | Estatístico | Machine Learning | Python | SQL | Big Data**
 
-Olá! Sou Heitor Andrade Oliveira, um Estatístico apaixonado por dados e sua aplicação na tomada de decisões estratégicas. Com uma formação em Estatística pela Universidade Estadual Paulista e uma pós-graduação em Análise de Dados, desenvolvi uma sólida base de conhecimento em técnicas estatísticas, análise exploratória e criação de modelos de machine learning.
+Sou apaixonado por transformar dados em decisões estratégicas. Tenho mais de **4 anos de experiência** desenvolvendo soluções de **Machine Learning**, **análises preditivas** e **automação de processos analíticos** que geram impacto real no negócio.  
 
-## Experiência Profissional
+Atuo em todo o ciclo de vida dos dados — da **engenharia e modelagem** à **implantação de modelos em produção**, com foco em **escalabilidade, valor de negócio e tomada de decisão baseada em dados**.
 
-Atualmente, atuo como Cientista de Dados, aplicando minhas habilidades em estatística, análise exploratória e criação de modelos de machine learning. Durante os últimos três anos, tive a oportunidade de trabalhar em diversos projetos desafiadores, incluindo:
+---
 
-- Identificação e formulação de hipóteses para análise de dados e solução de problemas empresariais.
-- Avaliação e garantia da qualidade dos dados, identificando e corrigindo inconsistências e anomalias.
-- Desenvolvimento de bases de dados robustas para análises subsequentes utilizando Hadoop e Python.
-- Pré-processamento de dados utilizando Python para transformar dados brutos em formatos utilizáveis.
-- Desenvolvimento de modelos de machine learning para identificar clientes propensos ao churn, distinguindo entre churn voluntário e involuntário.
-- Criação de modelos preditivos para avaliação de risco de crédito e classificação de clientes.
-- Desenvolvimento de modelos de perfilamento e clustering para segmentação de clientes.
-- Apresentação de resultados, insights e recomendações estratégicas para equipes de negócio e gestão.
+## 🚀 O que eu faço
 
-## Habilidades
+- 🤖 Crio **modelos de predição e segmentação** (churn, risco de crédito, inadimplência, perfil de clientes).  
+- 🧩 Desenvolvo **pipelines de dados (ETL)** e análises exploratórias com **Python, SQL e Hadoop**.  
+- 💬 Aplico técnicas de **NLP e LLMs** para análise de texto e extração de insights.  
+- ☁️ Estruturo **regras de decisão em tempo real** e soluções em nuvem (**AWS** e **Azure**).  
+- 📈 Traduzo dados complexos em **insights acionáveis** para áreas de negócio e liderança.
 
-- Linguagens de Programação: Python, R, SQL
-- Ferramentas: ETL, Ferramentas de Visualização de Dados
-- Técnicas: Análise Estatística, Modelos de Machine Learning, Análise Exploratória de Dados
-- Práticas: Identificação de Hipóteses, Limpeza e Transformação de Dados, Modelagem, Apresentação de Resultados
+---
 
-## Contato
+## 💼 Experiência Profissional
 
-- LinkedIn: [Heitor Andrade Oliveira](https://www.linkedin.com/in/heitorandradeoliveira/)
-- E-mail: [heitor.andrade@unesp.br]
+### 🔹 **Oi S.A.** — *Cientista de Dados* (Fev/2023 - Atual)
+- Desenvolvimento de modelos de **churn e inadimplência**, aumentando retenção e otimizando score.  
+- Implementação de **pipelines ETL**.  
+- Modelos de **NLP/LLM** e reconhecimento facial com **AWS Rekognition e Lambda**.  
+- Estruturação de **segmentações e regras de decisão em tempo real** (SAS Intelligent Decisioning).  
+
+### 🔹 **Accenture** — *Cientista de Dados Jr* (Out/2021 - Fev/2023)
+- Criação de modelos preditivos para **redução de inadimplência e churn**.  
+- Análises exploratórias e **validação estatística de hipóteses de negócio**.  
+
+---
+
+## 🧠 Habilidades Técnicas
+
+| Categoria | Competências |
+|------------|--------------|
+| **Linguagens** | Python, SQL, R |
+| **Modelagem** | Machine Learning, NLP, LLM, Clusterização |
+| **Big Data & Cloud** | Hadoop, AWS, Azure, GCP |
+| **Visualização** | Power BI |
+| **Outros** | ETL, SAS Intelligent Decisioning, Git |
+
+---
+
+## 🎓 Formação Acadêmica
+
+- 📊 **Pós-Graduação em Ciência de Dados e Big Data Analytics** – Faculdade IMES (2025)  
+- 📈 **Pós-Graduação em Gestão de Projetos e Metodologias Ágeis** – Faculdade IMES (2025)  
+- 🧮 **Pós-Graduação em Análise de Dados** – Faculdade Descomplica (2022)  
+- 🎓 **Graduação em Estatística** – Universidade Estadual Paulista (2021)
+
+---
+
+## 🧾 Certificações Recentes
+
+- 🎓 **Google Cloud Skill Badge:** Derive Insights from BigQuery Data (2025)  
+- 🎓 **Google Cloud Skill Badge:** Analyze and Visualize Looker Data (2025)  
+- ⚙️ **Machine Learning com Spark e PySpark** – Udemy (2024)  
+- 📊 **Séries Temporais e Análises Preditivas com Python** – Udemy (2024)
+
+---
+
+## 📂 Projetos em Destaque
+
+🔹 **[Predição de Churn com Machine Learning](https://github.com/heitorandradeoliveira/churn-prediction-retail-customers)**  
+Modelagem supervisionada para prever cancelamento de clientes.  
+
+🔹 **[Segmentação de Clientes com Clusterização](https://github.com/heitorandradeoliveira/customer-segmentation-clustering-retail)**  
+Aplicação de técnicas de aprendizado não supervisionado para identificar perfis de clientes e gerar estratégias personalizadas de marketing.  
+
+🔹 **[Análise de Sentimentos com NLP e LLMs](https://github.com/heitorandradeoliveira/sentiment-analysis-nlp-product-reviews)**  
+Projeto de análise de texto com processamento de linguagem natural para extração de insights de avaliações de produtos.  
+
+🔹 **[Previsão de Vendas com Séries Temporais](https://github.com/heitorandradeoliveira/sales-forecasting-time-series-retail)**  
+Desenvolvimento de modelos de previsão de vendas utilizando **Prophet**, **SARIMA** e **XGBoost**, com comparação de performance e visualização de tendências e sazonalidades.  
+
+
+---
+
+## 🌍 Idiomas
+
+- 🇧🇷 **Português** — Nativo  
+- 🇺🇸 **Inglês** — Intermediário (leitura técnica, conversação básica)
+
+---
+
+## 📫 Contato
+
+💻 **GitHub:** [github.com/heitorandradeoliveira](https://github.com/heitorandradeoliveira)  
+🔗 **LinkedIn:** [linkedin.com/in/heitorandradeoliveira](https://linkedin.com/in/heitorandradeoliveira)  
+📧 **E-mail:** [heitor3344@gmail.com](mailto:heitor3344@gmail.com)  
+📍 **Localização:** Sorocaba - SP, Brasil  
+
+---
+
+### ✨ *"Dados contam histórias — e eu as traduzo em decisões inteligentes."*
+
+---

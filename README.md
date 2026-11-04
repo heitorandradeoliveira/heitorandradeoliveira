@@ -2,7 +2,7 @@
 
 🎯 **Cientista de Dados | Estatístico | Machine Learning | Python | SQL | Big Data**
 
-Sou apaixonado por transformar dados em decisões estratégicas. Tenho mais de **4 anos de experiência** desenvolvendo soluções de **Machine Learning**, **análises preditivas** e **automação de processos analíticos** que geram impacto real no negócio.  
+Sou apaixonado por transformar dados em decisões estratégicas. Tenho mais de **5 anos de experiência** desenvolvendo soluções de **Machine Learning**, **análises preditivas** e **automação de processos analíticos** que geram impacto real no negócio.  
 
 Atuo em todo o ciclo de vida dos dados — da **engenharia e modelagem** à **implantação de modelos em produção**, com foco em **escalabilidade, valor de negócio e tomada de decisão baseada em dados**.
 

@@ -20,15 +20,30 @@ Atuo em todo o ciclo de vida dos dados — da **engenharia e modelagem** à **im
 
 ## 💼 Experiência Profissional
 
-### 🔹 **Oi S.A.** — *Cientista de Dados* (Fev/2023 - Atual)
-- Desenvolvimento de modelos de **churn e inadimplência**, aumentando retenção e otimizando score.  
-- Implementação de **pipelines ETL**.  
-- Modelos de **NLP/LLM** e reconhecimento facial com **AWS Rekognition e Lambda**.  
-- Estruturação de **segmentações e regras de decisão em tempo real** (SAS Intelligent Decisioning).  
+### 🔹 **Oi S.A.** — *Cientista de Dados* (Fev/2023 - Ago/2026)
+- Desenvolvimento e validação de modelos de **Machine Learning** para previsão de churn, inadimplência, risco e propensão ao pagamento.
+- Aplicação de modelos analíticos para **detecção de fraudes, auditoria e identificação de comportamentos suspeitos**.
+- Desenvolvimento de estratégias de **segmentação, clustering e perfilamento de clientes**, utilizando análises estatísticas e geográficas.
+- Construção e automação de regras de negócio e processos de **Customer Decisioning**, utilizando SAS Intelligent Decisioning.
+- Desenvolvimento de soluções com **NLP, LLMs e IA Generativa**, incluindo aplicações com AWS e Google Gemini.
+- Construção e manutenção de pipelines **ETL**, integrando dados com Python, SQL, Hadoop/Hive e BigQuery.
+- Automação de processos de dados e desenvolvimento de DAGs com **Apache Airflow**.
+- Versionamento de código e organização de fluxos de desenvolvimento utilizando **Git**.
+- Atuação em projetos voltados à retenção de clientes, recuperação de receita, crédito, marketing e personalização de ofertas.
 
 ### 🔹 **Accenture** — *Cientista de Dados Jr* (Out/2021 - Fev/2023)
-- Criação de modelos preditivos para **redução de inadimplência e churn**.  
-- Análises exploratórias e **validação estatística de hipóteses de negócio**.  
+- Desenvolvimento de modelos preditivos de **churn e inadimplência**, utilizando Python, SQL e algoritmos de Machine Learning.
+- Construção e preparação de bases analíticas e pipelines de dados com **Python, SQL e Hadoop/Hive**.
+- Realização de análises exploratórias (EDA) para identificação de padrões e comportamento de clientes.
+- Aplicação de métodos estatísticos e **testes de hipóteses** para avaliar impactos e apoiar decisões de negócio.
+- Análise de campanhas, comportamento de clientes e impactos de reajustes.
+- Preparação, tratamento e validação de dados para desenvolvimento de modelos estatísticos e preditivos.
+
+### 🔹 **Etho Soluções** — *Analista Jr* (2021)
+- Desenvolvimento de modelos de **Machine Learning**, utilizando Python e SQL.
+- Preparação, tratamento e análise de bases de dados com Python e Hadoop/Hive.
+- Análise de campanhas e comportamento de clientes para identificação de oportunidades de negócio.
+- Apoio ao desenvolvimento de soluções analíticas e modelos preditivos. 
 
 ---
 

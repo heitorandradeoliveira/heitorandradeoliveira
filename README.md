@@ -46,7 +46,7 @@ Atuo em todo o ciclo de vida dos dados — da **engenharia e modelagem** à **im
 - Construção e transformação de bases de dados utilizando Python, SQL e Hadoop/Hive.
 - Identificação de padrões e variáveis relevantes para apoiar estratégias de retenção e tomada de decisão.
 
-### 🔹 **Etho Soluções** — *Analista Jr* (2021)
+### 🔹 **Etho Soluções** — *Analista Jr* (Jun/2021 - Out/2021)
 - Desenvolvimento de modelos de Machine Learning para identificação de churn utilizando Python e SQL.
 - Preparação, tratamento e análise de bases de dados para estudos de comportamento de clientes.
 - Análise de campanhas e manipulação de dados utilizando Python e Hadoop/Hive.

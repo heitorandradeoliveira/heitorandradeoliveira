@@ -21,41 +21,43 @@ Atuo em todo o ciclo de vida dos dados — da **engenharia e modelagem** à **im
 ## 💼 Experiência Profissional
 
 ### 🔹 **Oi S.A.** — *Cientista de Dados* (Fev/2023 - Ago/2026)
-- Desenvolvimento e validação de modelos de **Machine Learning** para previsão de churn, inadimplência, risco e propensão ao pagamento.
-- Aplicação de modelos analíticos para **detecção de fraudes, auditoria e identificação de comportamentos suspeitos**.
-- Desenvolvimento de estratégias de **segmentação, clustering e perfilamento de clientes**, utilizando análises estatísticas e geográficas.
-- Construção e automação de regras de negócio e processos de **Customer Decisioning**, utilizando SAS Intelligent Decisioning.
-- Desenvolvimento de soluções com **NLP, LLMs e IA Generativa**, incluindo aplicações com AWS e Google Gemini.
-- Construção e manutenção de pipelines **ETL**, integrando dados com Python, SQL, Hadoop/Hive e BigQuery.
-- Automação de processos de dados e desenvolvimento de DAGs com **Apache Airflow**.
-- Versionamento de código e organização de fluxos de desenvolvimento utilizando **Git**.
-- Atuação em projetos voltados à retenção de clientes, recuperação de receita, crédito, marketing e personalização de ofertas.
+- Desenvolvimento de modelos de Machine Learning para identificação de churn e inadimplência, avaliação de risco e propensão ao pagamento, apoiando estratégias de retenção e recuperação de receita.
+- Realização de análises estatísticas e estudos do comportamento dos clientes, incluindo análises de Lifetime Value (LTV).
+- Aplicação de técnicas de clusterização, perfilamento de clientes e potenciais clientes e análise geográfica para identificação de segmentos e direcionamento de ofertas comerciais.
+- Preparação, exploração e transformação de dados para desenvolvimento e evolução de modelos preditivos.
+- Colaboração com equipes de Engenharia na integração de modelos aos processos produtivos, desenvolvendo e ajustando pipelines em Python e tratando falhas nas etapas de processamento.
+- Desenvolvimento e manutenção de regras de negócio para sistemas de decisão em tempo real, voltados à elegibilidade e ao direcionamento de ofertas, utilizando Python e SAS Intelligent Decisioning.
+- Desenvolvimento de relatórios e dashboards para acompanhamento da performance de ofertas e de processos de migração de dados.
+- Automação de testes e validações para apoiar processos de homologação e implantação de regras de negócio.
+- Desenvolvimento colaborativo de aplicações com LLMs, incluindo construção de bases de conhecimento, processamento de documentos, geração de embeddings, busca vetorial com RAG e integração de modelos e componentes com AWS Lambda, APIs e interfaces web.
+- Desenvolvimento de chatbots com LLMs e bases de conhecimento compostas por documentos e arquivos para apoiar atividades de áreas educacionais.
+- Participação no desenvolvimento de soluções de reconhecimento facial utilizando AWS Rekognition.
+- Desenvolvimento e manutenção de pipelines de processamento e transformação de dados utilizando Python, SQL e Apache Airflow, incluindo criação de DAGs com versionamento em git.
+- Participação em iniciativas de migração e integração de dados para o ambiente Google Cloud Platform (GCP), utilizando BigQuery e Cloud Storage.
+- Desenvolvimento de processos automatizados para extração, transformação, conversão e disponibilização de dados, integrando diferentes sistemas e etapas de processamento.
 
 ### 🔹 **Accenture** — *Cientista de Dados Jr* (Out/2021 - Fev/2023)
-- Desenvolvimento de modelos preditivos de **churn e inadimplência**, utilizando Python, SQL e algoritmos de Machine Learning.
-- Construção e preparação de bases analíticas e pipelines de dados com **Python, SQL e Hadoop/Hive**.
-- Realização de análises exploratórias (EDA) para identificação de padrões e comportamento de clientes.
-- Aplicação de métodos estatísticos e **testes de hipóteses** para avaliar impactos e apoiar decisões de negócio.
-- Análise de campanhas, comportamento de clientes e impactos de reajustes.
-- Preparação, tratamento e validação de dados para desenvolvimento de modelos estatísticos e preditivos.
+- Desenvolvimento de modelos preditivos de churn e inadimplência utilizando Python, SQL e técnicas de Machine Learning.
+- Realização de análises exploratórias e preparação de dados para desenvolvimento de modelos preditivos.
+- Aplicação de métodos estatísticos e testes de hipóteses para investigação do comportamento de clientes e avaliação de impactos de reajustes.
+- Construção e transformação de bases de dados utilizando Python, SQL e Hadoop/Hive.
+- Identificação de padrões e variáveis relevantes para apoiar estratégias de retenção e tomada de decisão.
 
 ### 🔹 **Etho Soluções** — *Analista Jr* (2021)
-- Desenvolvimento de modelos de **Machine Learning**, utilizando Python e SQL.
-- Preparação, tratamento e análise de bases de dados com Python e Hadoop/Hive.
-- Análise de campanhas e comportamento de clientes para identificação de oportunidades de negócio.
-- Apoio ao desenvolvimento de soluções analíticas e modelos preditivos. 
+- Desenvolvimento de modelos de Machine Learning para identificação de churn utilizando Python e SQL.
+- Preparação, tratamento e análise de bases de dados para estudos de comportamento de clientes.
+- Análise de campanhas e manipulação de dados utilizando Python e Hadoop/Hive.
 
 ---
 
-## 🧠 Habilidades Técnicas
+## 🧠 COMPETÊNCIAS
 
-| Categoria | Competências |
-|------------|--------------|
-| **Linguagens** | Python, SQL, R |
-| **Modelagem** | Machine Learning, NLP, LLM, Clusterização |
-| **Big Data & Cloud** | Hadoop, AWS, Azure, GCP |
-| **Visualização** | Power BI |
-| **Outros** | ETL, SAS Intelligent Decisioning, Git |
+- **Ciência de Dados e Machine Learning:** Machine Learning, Modelagem Preditiva, Classificação, Regressão, Clusterização, Churn, Inadimplência, Modelagem de Risco, Propensão, Segmentação, Perfilamento de Clientes e Estatística.
+- **Analytics e Análise de Dados:** Análise Exploratória de Dados (EDA), Testes de Hipóteses, Análise de Comportamento, Lifetime Value (LTV), Indicadores de Performance, Relatórios e Dashboards.
+- **Programação e Dados:** Python, SQL, pandas, NumPy, scikit-learn, XGBoost, Hadoop e Hive.
+- **Inteligência Artificial:** LLMs, IA Generativa, RAG, Embeddings, Busca Vetorial, NLP, Chatbots e Knowledge Base.
+- **Cloud e Automação:** Google Cloud Platform (GCP), BigQuery, Cloud Storage, Cloud Composer, Vertex AI, AWS, Lambda, API Gateway, S3 e Rekognition.
+- **Ferramentas e Sistemas:** Apache Airflow, SAS Intelligent Decisioning, Git, Power BI e Excel.
 
 ---
 

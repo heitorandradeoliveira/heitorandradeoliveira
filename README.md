@@ -8,13 +8,16 @@ Atuo em todo o ciclo de vida dos dados — da **engenharia e modelagem** à **im
 
 ---
 
-## 🚀 O que eu faço
+## O que eu faço
 
-- 🤖 Crio **modelos de predição e segmentação** (churn, risco de crédito, inadimplência, perfil de clientes).  
-- 🧩 Desenvolvo **pipelines de dados (ETL)** e análises exploratórias com **Python, SQL e Hadoop**.  
-- 💬 Aplico técnicas de **NLP e LLMs** para análise de texto e extração de insights.  
-- ☁️ Estruturo **regras de decisão em tempo real** e soluções em nuvem (**AWS** e **Azure**).  
-- 📈 Traduzo dados complexos em **insights acionáveis** para áreas de negócio e liderança.
+- 🤖 Desenvolvo **modelos de Machine Learning** para problemas de churn, inadimplência, risco, propensão e segmentação de clientes.
+- 📊 Realizo **análises estatísticas e exploratórias (EDA)** para identificar padrões, avaliar comportamentos e gerar insights para o negócio.
+- 🐍 Trabalho com **Python e SQL** no desenvolvimento de soluções analíticas, processamento de dados e automação de processos.
+- 🔄 Desenvolvo e mantenho **pipelines de processamento de dados** utilizando Apache Airflow, com criação de DAGs, operadores e tarefas.
+- 🧠 Desenvolvo soluções de **Inteligência Artificial**, incluindo LLMs, NLP, RAG, embeddings, busca vetorial e chatbots com bases de conhecimento.
+- ☁️ Trabalho com ambientes **Cloud**, incluindo GCP (BigQuery, Cloud Storage e Cloud Composer) e AWS (Lambda, S3 e Rekognition).
+- ⚙️ Desenvolvo **regras de negócio e sistemas de decisão**, apoiando processos de priorização, personalização de ofertas e automação de decisões.
+- 📈 Transformo dados em **insights acionáveis**, conectando soluções analíticas às necessidades e aos objetivos do negócio.
 
 ---
 
